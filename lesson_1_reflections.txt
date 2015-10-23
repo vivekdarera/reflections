@@ -1,0 +1,5 @@
+Having easy access to older versions makes us efficient by not having to manually maintain them. Also, any changes that we need to undo can be done easily.
+Manually committing requires some discipline, while auto commits eliminate the work.
+Google docs mostly work with individual files, while Git is a code repository of multiple files.
+Undoing changes is a powerful tool that encourages one to take risks.
+I want to start using git for my source control.
