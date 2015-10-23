@@ -1,0 +1,3 @@
+Git starts tracking when you make an initial repository
+Staging is an intemediate area that helps in organizing commits.
+Even if I make several changes, i can commit logical changes when I am online.
