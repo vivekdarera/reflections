@@ -2,3 +2,4 @@ Lesson 3 relections.
 When we are collaborating with other folks, a remote repository is invaluable.
 Pulling manually gives you a lot more control than automated pulling!
 Forks are from other's repositories and are done on the cloud. CLones are done from cloud to local. 
+It helps to keep in sync
